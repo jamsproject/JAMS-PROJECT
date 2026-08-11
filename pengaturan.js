@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "JAMS PROJECT",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyDm91Sn5NLjiCyaX-q7LcsIIFwGDl1uZFI",
     whatsappAdmin: "62821000000000" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
